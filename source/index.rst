@@ -16,7 +16,7 @@ Welcome to notes_cheatsheet's documentation!
     :maxdepth: 1
 
     calculus
-
+    math_notation
 
 
 Indices and tables
