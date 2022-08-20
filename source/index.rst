@@ -18,6 +18,11 @@ Welcome to notes_cheatsheet's documentation!
     calculus
     math_notation
 
+.. toctree::
+    :caption: Study Guide
+    :maxdepth: 1
+    
+    roadmap
 
 Indices and tables
 ==================
