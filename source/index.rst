@@ -24,6 +24,12 @@ Welcome to notes_cheatsheet's documentation!
     
     roadmap
 
+.. toctree::
+    :caption: Resources
+    :maxdepth: 1
+    
+    resources
+
 .. Indices and tables
 .. ==================
 
