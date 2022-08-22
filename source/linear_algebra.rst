@@ -415,7 +415,7 @@ Here’s another way to look at it:
 
 |
 
-**Element form**
+**Element Form**
 
 .. math::
 
@@ -429,7 +429,7 @@ Then
 .. math::
     
     \begin{align}
-    & A\times B=C=(c_{ij})\in M_{mp}(\Bbb F) \\
+    & A\cdot B=C=(c_{ij})\in M_{mp}(\Bbb F) \\
     & \color{purple}{\mathbf{c_{ij}}}=\sum_{k=1}^{n} \color{blue}{\mathbf{a_{ik}}}\color{red}{\mathbf{b_{kj}}}
     \end{align}
 
