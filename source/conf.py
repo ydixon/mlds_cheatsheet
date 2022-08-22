@@ -15,7 +15,9 @@ author = 'Dickson Yu'
 
 extensions = ['sphinx.ext.mathjax',
                 'sphinx.ext.githubpages',
-                'recommonmark']
+                # 'recommonmark',
+                'myst_parser',
+                ]
 
 templates_path = ['_templates']
 exclude_patterns = []
@@ -51,9 +53,26 @@ html_theme_options = {
 }
 
 def setup(app):
-    #app.add_stylesheet('theme_overrides.css')
-    app.add_css_file('theme_overrides.css')
+    app.add_css_file('custom.css')
 
 
 # The name of the Pygments (syntax highlighting) style to use.
 pygments_style = 'sphinx'
+
+myst_enable_extensions = [
+    "amsmath",
+    # "colon_fence",
+    # "deflist",
+    "dollarmath",
+    # "fieldlist",
+    # "html_admonition",
+    # "html_image",
+    # # "linkify",
+    # "replacements",
+    # "smartquotes",
+    # "strikethrough",
+    # "substitution",
+    # "tasklist",
+]
+
+myst_dmath_double_inline = True

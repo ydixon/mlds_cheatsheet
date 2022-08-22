@@ -16,6 +16,7 @@ Welcome to notes_cheatsheet's documentation!
     :maxdepth: 1
 
     calculus
+    linear_algebra
     math_notation
 
 .. toctree::
@@ -29,6 +30,18 @@ Welcome to notes_cheatsheet's documentation!
     :maxdepth: 1
     
     resources
+
+.. toctree::
+    :caption: Data Science
+    :maxdepth: 2
+    
+    feature_engineering
+
+.. toctree::
+    :caption: Sphinx Guide
+    :maxdepth: 2
+    
+    sphinx_guide
 
 .. Indices and tables
 .. ==================
