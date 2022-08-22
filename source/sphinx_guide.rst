@@ -35,4 +35,10 @@ Sphinx Guide
     .. include:: markdown/matrix_multiplication_element_form.md
        :parser: myst_parser.sphinx_
 
+
+.. rubric:: Hide text
+
+https://stackoverflow.com/questions/59679797/show-hide-part-of-text-question-answer-in-sphinx-file
+
+    
     
