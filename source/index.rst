@@ -30,6 +30,9 @@ Welcome to notes_cheatsheet's documentation!
     :maxdepth: 1
     
     resources
+    interview_prep
+    papers
+    good_questions
 
 .. toctree::
     :caption: Data Science
